@@ -1,0 +1,10 @@
+name: CustomCommands
+main: me.chaseoes.customcommands.CustomCommands
+version: 1.0
+description: Create custom commands to display any text you want.
+author: chaseoes
+website: http://a1chase.com
+commands:
+  customcommands:
+    description: The main command for CustomCommands.
+    usage: /customcommands <reload>
